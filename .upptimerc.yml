@@ -1,7 +1,7 @@
 # Change these first
 owner: smacota # Your GitHub organization or username, where this repository lives
 repo: status-page # The name of this repository
-base-url: /status-page/
+base-url: .
 
 sites:
   - name: Google
